@@ -1,12 +1,13 @@
-pdfminer.six
-pyresparser
 streamlit
+pyresparser
 pandas
 pafy
 plotly
 pymysql
 streamlit-tags
 Pillow
+youtube-dl
 nltk
 spacy==3.6.1
-yt-dlp
+yt_dlp
+pdfminer.six
